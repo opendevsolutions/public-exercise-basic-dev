@@ -15,3 +15,4 @@ Crear un sistema para que los datos proveídos en el file alumnos.json pasen por
 - Crear un servicio REST donde el json se envíe por Body, en caso de no ir por este camino se puede utilizar el mismo desde adentro del proyecto (como file o cadena caractéres).
 - Que el resultado sea la respuesta de un servicio REST, en caso de ir por este camino sólo imprimir por consola el resultado.
 - Desplegar en algúna PaaS gratuita como heroku.com, fly.io u otra la app en forma temporal.
+- Puede utilizar un framework de tecnología que se le haya requerido sólo si lo desea.
